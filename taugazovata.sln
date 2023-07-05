@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taugazovata", "taugazovata.csproj", "{8CE41BB3-ABFE-4276-9533-F0EF3EEF4B0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taugazova31", "..\taugazova31\taugazova31.csproj", "{BD31F742-C010-426D-939D-98A15A3F9051}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8CE41BB3-ABFE-4276-9533-F0EF3EEF4B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CE41BB3-ABFE-4276-9533-F0EF3EEF4B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CE41BB3-ABFE-4276-9533-F0EF3EEF4B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD31F742-C010-426D-939D-98A15A3F9051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD31F742-C010-426D-939D-98A15A3F9051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD31F742-C010-426D-939D-98A15A3F9051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD31F742-C010-426D-939D-98A15A3F9051}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

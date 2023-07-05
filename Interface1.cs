@@ -5,8 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace taugazovata
-{
-    internal interface Interface1
+{//Таугазова Т.А. 31ИС
+    //интерфейс  IComparable
+    internal interface IComparable
     {
+        int CompareTo(Product? other);
     }
 }
