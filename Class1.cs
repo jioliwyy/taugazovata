@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace taugazova31is
+namespace taugazovata
 {//Таугазова Т.А. 31ИС
     // класс - склад
     public class Store
@@ -21,7 +21,7 @@ namespace taugazova31is
         {
             Console.WriteLine($"Человек: имя - {Name}, адрес - {Address}");
             Console.WriteLine("Список товаров:");
-            Product.Sort();
+            Products.Sort();
             foreach (Product product in Products) { product.Show(); }
         }
 
