@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace taugazovata
 {//Таугазова Т.А. 31ИС
-    // класс - склад
+    // класс склад
     public class Store
     {
         public string Name { get; set; }
